@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=58a6ff&style=flat" alt="profile views" />
-  <a href="https://github.com/YOUR_USERNAME?tab=followers">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat&color=58a6ff" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=Jemz-h&label=Profile%20Views&color=58a6ff&style=flat" alt="profile views" />
+  <a href="https://github.com/Jemz-h?tab=followers">
+    <img src="https://img.shields.io/github/followers/Jemz-h?label=Followers&style=flat&color=58a6ff" alt="followers" />
   </a>
 </p>
 
