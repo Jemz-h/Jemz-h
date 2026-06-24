@@ -1,9 +1,9 @@
-<h1 align="center">Hey there, I'm [Your Name] 👋🚀</h1>
+<h1 align="center">Hey, I'm [Your Name] →</h1>
 
-<h3 align="center">3rd Year CS Student • Full Stack Dev • Professional Bug Creator (and Fixer) 🐛🔧</h3>
+<h3 align="center">3rd Year CS Student · Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+things+from+scratch+%F0%9F%93%A6;Full+Stack+%E2%9C%A8+Half+Asleep;HTML+%2B+CSS+%2B+JS+%3D+%E2%9D%A4%EF%B8%8F;Always+learning%2C+always+shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+things+from+scratch;Full+Stack+Developer;HTML+%2B+CSS+%2B+JS+%2B+React;Always+learning%2C+always+shipping" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,28 +15,26 @@
 
 ---
 
-### 🧑‍💻 About Me
+### About Me
 
 ```js
 const aboutMe = {
   status: "3rd year student",
   role: "Full Stack Developer",
-  superpower: "turning ☕ into 🖥️ code",
-  currentMission: "building projects from the ground up",
-  funFact: "git commit -m 'fixed it' (narrator: it was not fixed)"
+  approach: "build projects from the ground up",
+  mindset: "learn by shipping"
 };
 ```
 
-I love taking an idea and building it **end to end** — from the database to the pixel-perfect button that does absolutely nothing until I wire it up correctly at 2am. 🌙
+I like taking an idea and building it end to end — frontend, backend, and everything that connects them.
 
-- 🌱 Currently leveling up my full stack skills
-- 🛠️ I build projects from scratch because I like pain (and learning)
-- 🎯 Goal: ship cool stuff, break things, fix things, repeat
-- ⚡ Fun fact: I debug faster with music on
+- Currently leveling up my full stack skills
+- Build projects from scratch, piece by piece
+- Comfortable across the stack: UI, logic, data, deployment
 
 ---
 
-### 🧰 My Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,flutter,dart,git,github,vscode&theme=dark" />
@@ -46,7 +44,7 @@ I love taking an idea and building it **end to end** — from the database to th
 <tr>
 <td valign="top" width="50%">
 
-**🎨 Frontend**
+**Frontend**
 - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -56,11 +54,11 @@ I love taking an idea and building it **end to end** — from the database to th
 </td>
 <td valign="top" width="50%">
 
-**⚙️ Backend**
+**Backend**
 - ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 - ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 
-**🧪 Tools**
+**Tools**
 - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 - ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
@@ -71,7 +69,7 @@ I love taking an idea and building it **end to end** — from the database to th
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jemz-h&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
@@ -88,18 +86,18 @@ I love taking an idea and building it **end to end** — from the database to th
 
 ---
 
-### 🔥 What I'm Up To
+### Currently
 
 ```
-🚀 Building full stack apps from the ground up
-📚 Currently studying: [add your current focus, e.g. DSA / system design]
-🤝 Open to collaborating on: [side projects / hackathons / open source]
-💬 Ask me about: HTML, CSS, JS, React, Flutter, Node.js
+→ Building full stack apps from the ground up
+→ Studying: [add your current focus, e.g. DSA / system design]
+→ Open to: [side projects / hackathons / open source]
+→ Ask me about: HTML, CSS, JS, React, Flutter, Node.js
 ```
 
 ---
 
-### 📫 Let's Connect!
+### Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
@@ -122,8 +120,4 @@ I love taking an idea and building it **end to end** — from the database to th
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/grow-coding.gif" width="500" alt="coding gif"/>
 </p>
 
-<h3 align="center">
-✨ "Code is poetry. Bugs are the rhyme scheme nobody asked for." ✨
-</h3>
-
-<p align="center">⭐️ Thanks for stopping by — drop a star on my repos if you like what you see!</p>
+<p align="center">⭐ If you like what you see, a star on my repos goes a long way.</p>
